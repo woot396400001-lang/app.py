@@ -1,4 +1,4 @@
-streamlit as st
+import streamlit as st
 
 # ปรับหน้าตาเว็บให้ดูดี
 st.set_page_config(page_title="แปลงหน่วยที่ดิน", page_icon="🏡")
