@@ -4,7 +4,7 @@
 st.set_page_config(page_title="แปลงหน่วยที่ดิน", page_icon="🏡")
 
 st.title("🏡 เครื่องมือแปลงหน่วยที่ดิน")
-st.write("สร้างโดย Wut (น้อนวุ้ดด)")
+st.write("สร้างโดย Wut น้อนวุ้ดด")
 
 # ส่วนรับข้อมูล
 i = st.number_input("ใส่จำนวนพื้นที่ (ไร่)", min_value=0, value=1)
